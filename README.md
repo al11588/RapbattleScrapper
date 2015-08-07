@@ -1,3 +1,5 @@
+![Image of Beautiful Soup logo](http://www.crummy.com/software/BeautifulSoup/10.1.jpg)
+
 RapbattleScrapper
 =================
-A python Beautiful Soup scrapper that I used to scrap content from reddits Battle Rap section.
+A Python Beautiful Soup scrapper that I used to scrap content from reddits Battle Rap section.
